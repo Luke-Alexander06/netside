@@ -1,5 +1,18 @@
 body {
     background-image: url("bkarun.jpg");
+    background-size: 2500px;
 }
 
+.innpakning {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
 
+.checklist{
+    display: flex;
+    flex-direction: row;
+}
