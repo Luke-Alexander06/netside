@@ -15,4 +15,9 @@ body {
 .checklist{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 50%;
 }
